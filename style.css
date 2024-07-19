@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    position:sticky;
+    top: 0;
+}
+nav{
+    background-color: pink;
+    height:80px;
+}
+.container{
+    background-color: lightgreen;
+    margin: 12px 34px;
+    text-align: center;
+    padding: 55px 34px;
+}
+.box1{
+    background-color: aqua;
+    height: 70vh;
+    width: 45%;
+    display: inline-block;
+    margin: 0px 20px;
+}
+.box2{
+    background-color: beige;
+    height: 70vh;
+    width: 45%;
+    display: inline-block;
+    margin: 0px 20px;
+}
+.text{
+    padding: 34px;
+    border: 2px solid white;
+    margin: 50px 34vh;
+    font-size: 2em;
+    border-radius:5px;
+}
+footer{
+    height: 100px;
+    background-color: bisque;
+}
+main{
+    background-color: black;
+    color: white;
+    padding: 34px;
+}
+.dot{
+    height: 40px;
+    width: 60px;
+    background-color: orange;
+    position: fixed;
+    bottom: 12px;
+    right: 30px;
+    border-radius: 50px;
+}
